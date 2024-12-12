@@ -1,0 +1,15 @@
+{
+  "name": "cryptfine",
+  "version": "1.0.0",
+  "description": "A blog for writing financial data",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "discryptment",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
